@@ -2,9 +2,10 @@
 
 
 ## Variablen | Konstanten
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
 
 
 ## Zuordnung | Assignments
